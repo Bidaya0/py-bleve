@@ -1,0 +1,3 @@
+[submodule "bleve"]
+	path = bleve
+	url = git@github.com:blevesearch/bleve.git
